@@ -1,5 +1,5 @@
 package dezembro;
-/*4 - Implemente um programa que solicite ao(à) usuário(a) qual curso deseja se inscrever,
+/*4 -Implemente um programa que solicite ao(à) usuário(a) qual curso deseja se inscrever,
 apresentando um menu com os cursos oferecidos. Caso o(a) usuário(a) escolha um curso
 que ainda há vagas disponíveis para inscrição, atualize o estoque do respectivo curso e*/
 import java.util.ArrayList;
